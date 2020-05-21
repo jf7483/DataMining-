@@ -1,4 +1,4 @@
-# Data Mining Projects 
+# Data Mining Project
 
 <p> This is a project that my group memebers and I collaborated on to do the following: </p>
 <ul>
@@ -7,7 +7,7 @@
   <li> Does receiving test prep affect student's overall exam performance? </li>
 </ul>
 
-<h2> <b> Data Mining Methods Used </b> </h2> 
+<h2> <b> Data Mining Methods Used: </b> </h2> 
 <ul> 
   <li> Linear Regression </li> 
   <li> Regression Tree </li> 
